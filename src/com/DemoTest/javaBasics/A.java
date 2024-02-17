@@ -4,7 +4,7 @@ public class A {
 
 	
 	String name = "Selenium-java";
-	//this is test change
+	
 	
 	int age = 30;
 	
