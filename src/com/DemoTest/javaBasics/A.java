@@ -10,6 +10,7 @@ public class A {
 	
 	static double tax = 10;
 	
+	
 	public void t1() {
 		System.out.println("I am pursuing " + name + " course.");
 		
